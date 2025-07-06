@@ -10750,13 +10750,13 @@ h5,
     background: #000000;
 }
 .hero-wrap.hero-wrap-2 {
-    height: 700px;
+    height: 400px;
 }
 .hero-wrap.hero-wrap-2 .overlay {
     opacity: 0.3;
 }
 .hero-wrap.hero-wrap-2 .slider-text {
-    height: 700px;
+    height: 400px;
 }
 
 @-webkit-keyframes blinker {
